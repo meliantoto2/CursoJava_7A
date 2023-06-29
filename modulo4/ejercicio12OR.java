@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DeterminarDocenaOr {
+public class ejercicio12OR {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
