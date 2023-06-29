@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ParImpar {
+public class ejercicio2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
