@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DeterminarPuestoTorneoSwitch {
+public class ejercicio14 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
