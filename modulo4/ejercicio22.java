@@ -1,4 +1,4 @@
-public class SueldoNetoEmpleadoAleatorio {
+public class ejercicio22 {
     public static void main(String[] args) {
         int contador = 1;
 
